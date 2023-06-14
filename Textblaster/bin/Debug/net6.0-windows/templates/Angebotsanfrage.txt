@@ -1,0 +1,6 @@
+[anrede],
+
+ich hoffe, diese E-Mail findet Sie gut. Mein Name ist [name] und ich vertrete [unternehmen]. Wir sind an einer möglichen Zusammenarbeit mit Ihrem Unternehmen interessiert und möchten gerne ein Angebot für [produkt] erhalten.
+
+Danke für Ihre Zeit
+Peace

@@ -1,0 +1,7 @@
+11.06.2023
+17:21
+11.06.2023 17:21:14
+[anrede];Sehr geehrte Damen und Herren
+[name];Max Mustermann
+[unternehmen];Musterfirma GmbH
+[produkt];TextBlaster
